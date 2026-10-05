@@ -1,0 +1,9 @@
+# Power BI local files
+.pbi/
+*.pbix.bak
+cache.abf
+localSettings.json
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
